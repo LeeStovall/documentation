@@ -4,7 +4,7 @@ title: System Startup
 
 # System Startup
 
-In this chapter you will learn how the system start.
+In this chapter, you will learn how the system starts.
 
 ****
 **Objectives**: In this chapter, future Linux administrators will learn:
